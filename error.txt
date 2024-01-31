@@ -35,7 +35,7 @@ public class SimpleCalculator {
                 breakl;
             default:
                 System.out.println("Invalid operator!");
-                return
+                return;
         }
 
         System.out.println("Result: " + result)
