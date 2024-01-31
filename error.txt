@@ -32,7 +32,7 @@ public class SimpleCalculator {
                     System.out.println("Error: Cannot divide by zero!");
                     return
                 }
-                break
+                breakl;
             default:
                 System.out.println("Invalid operator!");
                 return
